@@ -1,0 +1,93 @@
+{
+    "name": "exp2_17_6",
+    "best_structure": {
+        "polygons": [
+            {
+                "id": "tmp",
+                "points": [
+                    {
+                        "_x": 283.23401871576766,
+                        "_y": 207.00862197135154,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 261.31370849898474,
+                        "_y": 193.57359312880712,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 235.85786437626908,
+                        "_y": 196.40202025355333,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 217.4730880654188,
+                        "_y": 206.301515190165,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 208.98780669118023,
+                        "_y": 217.61522368914976,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 216.0588745030457,
+                        "_y": 258.62741699796953,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 225.9583694396574,
+                        "_y": 274.18376618407353,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 263.4350288425444,
+                        "_y": 277.7193000900063,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 278.99137802864846,
+                        "_y": 269.2340187157677,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 288.8908729652601,
+                        "_y": 253.6776695296637,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 296.6690475583122,
+                        "_y": 233.17157287525382,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 283.23401871576766,
+                        "_y": 207.00862197135154,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    }
+                ],
+                "_class_path": "gefest.core.structure.polygon/Polygon"
+            }
+        ],
+        "_class_path": "gefest.core.structure.structure/Structure"
+    },
+    "fitness": 0.08336440666022507,
+    "metadata": {
+        "max_gens": 100,
+        "pop_size": 100,
+        "time": 321.9820084999992
+    },
+    "_class_path": "gefest.core.opt.result/Result"
+}

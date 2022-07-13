@@ -1,0 +1,57 @@
+{
+    "name": "exp4_4600_4",
+    "best_structure": {
+        "polygons": [
+            {
+                "id": "tmp",
+                "points": [
+                    {
+                        "_x": 1317.6269043700565,
+                        "_y": 702.6870455266416,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 1170.4460966819836,
+                        "_y": 74.86317703462055,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 281.0359428102466,
+                        "_y": 22.608242436508192,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 34,
+                        "_y": 22,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 908,
+                        "_y": 1460,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 1317.6269043700565,
+                        "_y": 702.6870455266416,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    }
+                ],
+                "_class_path": "gefest.core.structure.polygon/Polygon"
+            }
+        ],
+        "_class_path": "gefest.core.structure.structure/Structure"
+    },
+    "fitness": 40.000202579019614,
+    "metadata": {
+        "max_gens": 100,
+        "pop_size": 100,
+        "time": 80.11317079999935
+    },
+    "_class_path": "gefest.core.opt.result/Result"
+}

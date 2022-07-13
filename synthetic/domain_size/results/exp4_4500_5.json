@@ -1,0 +1,57 @@
+{
+    "name": "exp4_4500_5",
+    "best_structure": {
+        "polygons": [
+            {
+                "id": "tmp",
+                "points": [
+                    {
+                        "_x": 28.292982798054027,
+                        "_y": 836.8293539485721,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 499.8604942288746,
+                        "_y": 1057.947155500014,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 1032,
+                        "_y": 579,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 852,
+                        "_y": 13,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 48.560822167758715,
+                        "_y": 7.114815877023162,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 28.292982798054027,
+                        "_y": 836.8293539485721,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    }
+                ],
+                "_class_path": "gefest.core.structure.polygon/Polygon"
+            }
+        ],
+        "_class_path": "gefest.core.structure.structure/Structure"
+    },
+    "fitness": 48.6569734949588,
+    "metadata": {
+        "max_gens": 100,
+        "pop_size": 100,
+        "time": 81.7830881000009
+    },
+    "_class_path": "gefest.core.opt.result/Result"
+}
