@@ -1,0 +1,57 @@
+{
+    "name": "exp4_900_6",
+    "best_structure": {
+        "polygons": [
+            {
+                "id": "tmp",
+                "points": [
+                    {
+                        "_x": 4.405302859235761,
+                        "_y": 195.04326963396937,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 130.014787681063,
+                        "_y": 222.5070152414998,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 195.53112752175318,
+                        "_y": 96.90602315194987,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 177,
+                        "_y": 3,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 2.55517936359891,
+                        "_y": 6.8822294501659265,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 4.405302859235761,
+                        "_y": 195.04326963396937,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    }
+                ],
+                "_class_path": "gefest.core.structure.polygon/Polygon"
+            }
+        ],
+        "_class_path": "gefest.core.structure.structure/Structure"
+    },
+    "fitness": 6.877060013466924,
+    "metadata": {
+        "max_gens": 100,
+        "pop_size": 100,
+        "time": 78.15299649999997
+    },
+    "_class_path": "gefest.core.opt.result/Result"
+}

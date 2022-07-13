@@ -1,0 +1,57 @@
+{
+    "name": "exp4_4100_3",
+    "best_structure": {
+        "polygons": [
+            {
+                "id": "tmp",
+                "points": [
+                    {
+                        "_x": 59.0108540601654,
+                        "_y": 4078.348239223491,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 849,
+                        "_y": 4092,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 2451,
+                        "_y": 3301,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 2397.664409355997,
+                        "_y": 507.7246785069293,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 23.72944266561621,
+                        "_y": -0.3482392234904985,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    },
+                    {
+                        "_x": 59.0108540601654,
+                        "_y": 4078.348239223491,
+                        "_z": 0.0,
+                        "_class_path": "gefest.core.structure.point/Point"
+                    }
+                ],
+                "_class_path": "gefest.core.structure.polygon/Polygon"
+            }
+        ],
+        "_class_path": "gefest.core.structure.structure/Structure"
+    },
+    "fitness": 23.241226124732997,
+    "metadata": {
+        "max_gens": 100,
+        "pop_size": 100,
+        "time": 74.2409325999979
+    },
+    "_class_path": "gefest.core.opt.result/Result"
+}
