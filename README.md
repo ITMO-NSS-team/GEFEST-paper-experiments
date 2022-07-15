@@ -12,8 +12,8 @@ The experimental setup consists of:
   - breakwaters design based on SPEA2 - [script](./real-world/breakwaters/breakwaters_SPEA2.py)
   - breakwaters design based on combination of surrogate and physics-based models - [script](./real-world/breakwaters/breakwaters_surr.py)
 - Microfluidic device case study:
-  - microfluidic design based on Generative Neural Network - [script](./real-world/microfluidic/microfluidic_GNN.py)
-  - microfluidic design based on GEFEST Standard Sampler - [script](./real-world/breakwaters/microfluidic_GSS.py)
+  - microfluidic design based on Generative Neural Network - [script](./real-world/microfluidic/microfluid_GNN.py)
+  - microfluidic design based on GEFEST Standard Sampler - [script](./real-world/microfluidic/microfluid_GSS.py)
 - Heat-source system design:
   - heat-source design based on Generative Neural Network and Deep learning estimator - [script](./real-world/heat/heat_deep.py)
 - Oil field design case study.
