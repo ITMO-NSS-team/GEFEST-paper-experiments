@@ -25,27 +25,16 @@ GEFEST framework is available in [main repository](https://github.com/ITMO-NSS-t
 ## Results
 - ### Breakwaters
   Below are the convergence results in terms of _hypervolume_ and the best configurations found by each toolkit 
-  are presented. <br /> <br />
-
-  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;__Differential__ __evolution__ &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-   __Combination of estimators__ &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __SPEA2__
+  are presented. <br /> 
 
   <img src="real-world/breakwaters/results_paper/BW.svg" alt="drawing" width="640"/>
   <img src="real-world/breakwaters/results_paper/bw_des.png" alt="drawing" width="631"/> 
 
 - ### Microfluidics
   Convergence of the target variable and the best found objects by each toolkit are presented. <br /> <br />
-  
-  <p align="center">
-  <b><font size="1">Generative Neural Network</font></b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp
-  <b><font size="1">GEFEST Standard Sampler</font></b>
-  </p>  
 
   <p align="center">
-  <img src="real-world/microfluidic/results_paper/final_micro.svg" alt="drawing" width="350"/>
+  <img src="real-world/microfluidic/results_paper/final_micro.png" alt="drawing" width="350"/>
   </p>  
 
 - ### Heat source
