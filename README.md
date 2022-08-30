@@ -1,5 +1,5 @@
 # GEFEST-paper-experiments
-The repository contains the experimental studies for "Evolutionary Generative Design of Physical Objects with GEFEST framework" paper.
+The repository contains the experimental studies for "Generative Design of Physical Objects using Modular framework" paper.
 
 The experimental setup consists of:
 
