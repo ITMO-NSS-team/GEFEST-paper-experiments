@@ -7,6 +7,7 @@ The experimental setup consists of:
   - design of structures with various number of polygons in optimal solution - [script](./synthetic/num_polygons/number_of_objects.py)
   - design of structures with various number of vertices in optimal solution - [script](./synthetic/num_vertices/number_of_vertices.py)
   - design of structures with various number of search domain size - [script](./synthetic/domain_size/domain_size.py)
+  - design of structures with various complexity - [script](./real-world/second_synthetic/main.py)
 - Breakwaters design case study:
   - breakwaters design based on differential evolution - [script](./real-world/breakwaters/breakwaters_de.py)
   - breakwaters design based on SPEA2 - [script](./real-world/breakwaters/breakwaters_SPEA2.py)
